@@ -22,7 +22,7 @@ var b = Math.floor(Math.random() * 1000);
   }
   
   function dec(a) {
-    return a--:
+    return a--;
   }
   
   function makeInt(a) {
