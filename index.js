@@ -31,6 +31,6 @@ var a, b;
     parseInt(a);
   }
   
-  function makeInt('0x2328') {
-    return 'assumes base 10';
+  function preserveDecimal(a) {
+    parseFloat(a);
   }
