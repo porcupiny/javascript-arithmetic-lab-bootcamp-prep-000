@@ -31,4 +31,6 @@ var a, b;
     parseInt(a);
   }
   
-  function makeInt('0x2328')
+  function makeInt('0x2328') {
+    return 'assumes base 10';
+  }
