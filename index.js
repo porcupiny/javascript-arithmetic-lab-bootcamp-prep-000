@@ -18,11 +18,11 @@ var b = Math.floor(Math.random() * 1000);
   }
   
   function inc(a) {
-    return a++;
+    return a+1;
   }
   
   function dec(a) {
-    return a--;
+    return a-1;
   }
   
   var n;
