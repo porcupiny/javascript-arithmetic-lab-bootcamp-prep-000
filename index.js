@@ -28,5 +28,5 @@ var a, b;
   }
   
   function makeInt(a) {
-    
+    parseInt(a);
   }
