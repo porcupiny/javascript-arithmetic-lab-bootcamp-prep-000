@@ -26,10 +26,10 @@ var b = Math.floor(Math.random() * 1000);
   }
   var n;
   
-  function makeInt(n) {
-    return parseInt('n');
+  function makeInt() {
+    return parseInt();
   }
   
-  function preserveDecimal(n) {
-    return parseFloat('n');
+  function preserveDecimal() {
+    return parseFloat();
   }
