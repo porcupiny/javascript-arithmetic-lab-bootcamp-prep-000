@@ -25,7 +25,7 @@ var b = Math.floor(Math.random() * 1000);
     return a-1;
   }
   
-var n = Math.random();
+var n;
 
   function makeInt(n) {
     return parseInt('n', 10);
